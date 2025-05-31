@@ -1,5 +1,11 @@
 # 🏥 Sistema de Hospital - Projeto prático
 
+## Grupos
+
+- Grupo 1: julia, jean, priscila, thiago e adenilson
+
+- Grupo 2: enrico, glauber, eduardo, welther e gregorio
+
 ## ✅ Requisitos Funcionais (RF)
 
 - **RF001** - O sistema deve permitir o cadastro de médicos com nome, especialidade e CRM.
